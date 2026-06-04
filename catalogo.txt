@@ -1,0 +1,9 @@
+id,nombre,categoria,precio
+P1,Computador Escritorio,Electrónica,1000000
+P2,Mouse RGB,Electrónica,10000
+P3,Teclado Mecánico,Electrónica,40000
+P4,Monitor Pc,Electrónica,200000
+P5,Cafetera,Hogar,139000
+P6,Escritorio,Muebles,95000
+P7,Silla Gamer,Muebles,80000
+P8,Audífonos Gamer,Electrónica,40000

@@ -1,0 +1,8 @@
+=== ORDEN 2026-06-04 06:08:29 ===
+Computador Escritorio | 2 x $1000000 = $2000000
+TOTAL: $2000000
+
+=== ORDEN 2026-06-04 06:42:56 ===
+Computador Escritorio | 3 x $1000000.00 = $3000000.00
+TOTAL: $3000000.00
+
